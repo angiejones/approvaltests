@@ -1,0 +1,27 @@
+#####DATE
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+#####COOKIE
+X-Cache=hit
+Charset=UTF-8
+Vary=Accept-Encoding
+Access-Control-Allow-Origin=*
+Server=cloudflare
+#####CF-RAY
+Content-Encoding=gzip
+
+{
+    "post code": "20500",
+    "country": "United States",
+    "country abbreviation": "US",
+    "places": [
+        {
+            "place name": "Washington",
+            "longitude": "-77.0355",
+            "state": "District of Columbia",
+            "state abbreviation": "DC",
+            "latitude": "38.8946"
+        }
+    ]
+}
